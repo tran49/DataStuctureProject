@@ -1,0 +1,52 @@
+# Results
+./results/*.txt
+
+# Custom configurations
+main
+parser_test
+graph_test
+traversals_test
+pagerank_test
+kosaraju_test
+
+# Data
+web-Google.txt
+
+.vscode
+.devcontainer
+*DS_Store
+
+Dockerfile
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
